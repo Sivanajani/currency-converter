@@ -17,6 +17,12 @@ Built with **React** and **Vite**.
 
 ---
 
+## 🌐 API Source
+
+This project uses the [ExchangeRate.host](https://exchangerate.host/) API to retrieve live exchange rates.
+
+---
+
 ## 🛠 Tech Stack
 
 - **React** (Frontend)
@@ -49,7 +55,7 @@ Built with **React** and **Vite**.
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE) MIT License © 2025 Sivanajani Sivakumar
+This project is licensed under the [MIT License](LICENSE) © 2025 Sivanajani Sivakumar
 
 ---
 
